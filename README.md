@@ -15,4 +15,4 @@ the background is a dark single color (night like) and we know we expect any oth
 On every hit the enemy is positioned again at constant distance exactly behind you, <br/>
 based on your current position and rotation and the timer is restarted.<br/>
 
-<img src="https://github.com/maxoyn/OGL_Noscope/blob/master/images/myimg.jpg" width="510" height="450">
+<img src="https://github.com/maxoyn/OGL_Noscope/blob/master/images/myimg.jpg" width="700" height="450">
