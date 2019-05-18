@@ -5,7 +5,7 @@ You have to hit an enemy with your sniper without scoping, which usually results
 
 Lightning: There’s no lightning in the scene other than a point light aimed from the player. <br/>
 Objects: Loaded using ASSIMP. There are two - an enemy and a weapon. <br/>
-Aiming: The center of the screen has a crosshair consisted of 4 triangles.<br/>
+Aiming: The center of the screen has a crosshair consisted of 4 triangles. Dark and hardly visible as in those games there isn't one.<br/>
 Game element: There is a timer to help measure your reaction and improve.  It's displayed when quitting. (Image 2)<br/>
 
 How does it work?<br/>
