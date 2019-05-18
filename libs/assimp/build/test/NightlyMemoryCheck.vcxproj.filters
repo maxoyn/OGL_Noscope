@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\user\Desktop\OGL_Indexno2\OGL_Indexno\libs\assimp\build\CMakeFiles\b4801c7f8d468fbae27296a94b315f4b\NightlyMemoryCheck.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\user\Desktop\OGL_Indexno2\OGL_Indexno\libs\assimp\test\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\user\Desktop\OGL_Indexno2\OGL_Indexno\libs\assimp\build\test\CMakeFiles\NightlyMemoryCheck" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{BFBF1B32-4BC5-361C-B017-21FE463FD5F6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

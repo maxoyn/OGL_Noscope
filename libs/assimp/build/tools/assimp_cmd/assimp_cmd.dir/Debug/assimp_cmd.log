@@ -1,0 +1,10 @@
+﻿  Building Custom Rule C:/Users/user/Desktop/OGL_Indexno2/OGL_Indexno/libs/assimp/tools/assimp_cmd/CMakeLists.txt
+  CMake does not need to re-run because C:/Users/user/Desktop/OGL_Indexno2/OGL_Indexno/libs/assimp/build/tools/assimp_cmd/CMakeFiles/generate.stamp is up-to-date.
+  CompareDump.cpp
+  ImageExtractor.cpp
+  Main.cpp
+  WriteDumb.cpp
+  Info.cpp
+  Export.cpp
+  assimp_cmd.vcxproj -> C:\Users\user\Desktop\OGL_Indexno2\OGL_Indexno\libs\assimp\build\tools\assimp_cmd\Debug\assimp.exe
+  assimp_cmd.vcxproj -> C:/Users/user/Desktop/OGL_Indexno2/OGL_Indexno/libs/assimp/build/tools/assimp_cmd/Debug/assimp.pdb (Full PDB)

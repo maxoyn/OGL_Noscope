@@ -1,0 +1,11 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (OGL_Indexno.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  OGL_360.cpp
+d:\uni\opengl\ogl_360\ogl_indexno\shader.h(71): warning C4101: 'infoLog': unreferenced local variable
+d:\uni\opengl\ogl_360\ogl_indexno\shader.h(70): warning C4101: 'success': unreferenced local variable
+d:\uni\opengl\ogl_360\ogl_indexno\ogl_360.cpp(80): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\uni\opengl\ogl_360\ogl_indexno\ogl_360.cpp(161): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\uni\opengl\ogl_360\ogl_indexno\ogl_360.cpp(225): warning C4244: '=': conversion from 'const Sint32' to 'float', possible loss of data
+d:\uni\opengl\ogl_360\ogl_indexno\ogl_360.cpp(226): warning C4244: '=': conversion from 'const Sint32' to 'float', possible loss of data
+d:\uni\opengl\ogl_360\ogl_indexno\ogl_360.cpp(232): warning C4244: 'argument': conversion from 'const Sint32' to 'float', possible loss of data
+d:\uni\opengl\ogl_360\ogl_indexno\boundingobjects.h(163): warning C4715: 'BoundingSphere::CollidesWithRay': not all control paths return a value
+  OGL_Indexno.vcxproj -> D:\Uni\opengl\OGL_360\Debug\OGL_360.exe

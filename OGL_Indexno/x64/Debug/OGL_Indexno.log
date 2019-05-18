@@ -1,0 +1,28 @@
+﻿  stdafx.cpp
+  TransformNode.cpp
+  OGLIndexno.cpp
+c:\users\ch\desktop\ogl_scene\ogl_2modela\ogl_indexno\ogl_indexno\shader.h(71): warning C4101: 'infoLog': unreferenced local variable
+c:\users\ch\desktop\ogl_scene\ogl_2modela\ogl_indexno\ogl_indexno\shader.h(70): warning C4101: 'success': unreferenced local variable
+c:\users\ch\desktop\ogl_scene\ogl_2modela\ogl_indexno\ogl_indexno\mesh.h(89): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+c:\users\ch\desktop\ogl_scene\ogl_2modela\ogl_indexno\ogl_indexno\oglindexno.cpp(143): warning C4244: '=': conversion from 'const Sint32' to 'float', possible loss of data
+c:\users\ch\desktop\ogl_scene\ogl_2modela\ogl_indexno\ogl_indexno\oglindexno.cpp(144): warning C4244: '=': conversion from 'const Sint32' to 'float', possible loss of data
+c:\users\ch\desktop\ogl_scene\ogl_2modela\ogl_indexno\ogl_indexno\oglindexno.cpp(150): warning C4244: '=': conversion from 'const Sint32' to 'float', possible loss of data
+c:\users\ch\desktop\ogl_scene\ogl_2modela\ogl_indexno\ogl_indexno\oglindexno.cpp(151): warning C4244: '=': conversion from 'const Sint32' to 'float', possible loss of data
+c:\users\ch\desktop\ogl_scene\ogl_2modela\ogl_indexno\ogl_indexno\oglindexno.cpp(157): warning C4244: 'argument': conversion from 'const Sint32' to 'float', possible loss of data
+  Node.cpp
+  GroupNode.cpp
+  GeometryNode.cpp
+  Generating Code...
+OGLIndexno.obj : error LNK2019: unresolved external symbol __imp_glBindTexture referenced in function "public: void __cdecl Mesh::Draw(class Shader)" (?Draw@Mesh@@QEAAXVShader@@@Z)
+OGLIndexno.obj : error LNK2019: unresolved external symbol __imp_glBlendFunc referenced in function "bool __cdecl initGL(void)" (?initGL@@YA_NXZ)
+OGLIndexno.obj : error LNK2019: unresolved external symbol __imp_glClear referenced in function "void __cdecl render(void)" (?render@@YAXXZ)
+OGLIndexno.obj : error LNK2019: unresolved external symbol __imp_glClearColor referenced in function "bool __cdecl initGL(void)" (?initGL@@YA_NXZ)
+OGLIndexno.obj : error LNK2019: unresolved external symbol __imp_glDrawElements referenced in function "public: void __cdecl Mesh::Draw(class Shader)" (?Draw@Mesh@@QEAAXVShader@@@Z)
+OGLIndexno.obj : error LNK2019: unresolved external symbol __imp_glEnable referenced in function "bool __cdecl initGL(void)" (?initGL@@YA_NXZ)
+OGLIndexno.obj : error LNK2019: unresolved external symbol __imp_glGenTextures referenced in function "bool __cdecl LoadTexture(char const *,unsigned int &)" (?LoadTexture@@YA_NPEBDAEAI@Z)
+OGLIndexno.obj : error LNK2019: unresolved external symbol __imp_glGetError referenced in function "bool __cdecl initGL(void)" (?initGL@@YA_NXZ)
+OGLIndexno.obj : error LNK2019: unresolved external symbol __imp_glPolygonMode referenced in function "bool __cdecl initGL(void)" (?initGL@@YA_NXZ)
+OGLIndexno.obj : error LNK2019: unresolved external symbol __imp_glTexImage2D referenced in function "bool __cdecl LoadTexture(char const *,unsigned int &)" (?LoadTexture@@YA_NPEBDAEAI@Z)
+OGLIndexno.obj : error LNK2019: unresolved external symbol __imp_glTexParameteri referenced in function "bool __cdecl LoadTexture(char const *,unsigned int &)" (?LoadTexture@@YA_NPEBDAEAI@Z)
+OGLIndexno.obj : error LNK2019: unresolved external symbol gluErrorString referenced in function "bool __cdecl initGL(void)" (?initGL@@YA_NXZ)
+C:\Users\CH\Desktop\OGL_Scene\OGL_2modela\OGL_Indexno\x64\Debug\OGL_Indexno.exe : fatal error LNK1120: 12 unresolved externals

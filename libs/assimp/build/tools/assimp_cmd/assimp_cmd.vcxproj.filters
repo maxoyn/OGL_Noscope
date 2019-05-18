@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\user\Desktop\OGL_Indexno2\OGL_Indexno\libs\assimp\tools\assimp_cmd\CompareDump.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\user\Desktop\OGL_Indexno2\OGL_Indexno\libs\assimp\tools\assimp_cmd\ImageExtractor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\user\Desktop\OGL_Indexno2\OGL_Indexno\libs\assimp\tools\assimp_cmd\Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\user\Desktop\OGL_Indexno2\OGL_Indexno\libs\assimp\tools\assimp_cmd\WriteDumb.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\user\Desktop\OGL_Indexno2\OGL_Indexno\libs\assimp\tools\assimp_cmd\Info.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\user\Desktop\OGL_Indexno2\OGL_Indexno\libs\assimp\tools\assimp_cmd\Export.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\user\Desktop\OGL_Indexno2\OGL_Indexno\libs\assimp\tools\assimp_cmd\Main.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\user\Desktop\OGL_Indexno2\OGL_Indexno\libs\assimp\tools\assimp_cmd\resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\user\Desktop\OGL_Indexno2\OGL_Indexno\libs\assimp\tools\assimp_cmd\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C:\Users\user\Desktop\OGL_Indexno2\OGL_Indexno\libs\assimp\tools\assimp_cmd\assimp_cmd.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{A563FA78-44BA-3DC6-A9F0-AC20E4CEB381}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{AC5A244A-FAF0-38E8-9047-67287D8C7384}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
